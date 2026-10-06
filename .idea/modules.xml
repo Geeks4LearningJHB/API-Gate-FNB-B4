@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/api-gateway-b4.iml" filepath="$PROJECT_DIR$/.idea/api-gateway-b4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/API-Gate-FNB-B4.iml" filepath="$PROJECT_DIR$/.idea/API-Gate-FNB-B4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway-b4/api-gateway-b4.iml" filepath="$PROJECT_DIR$/api-gateway-b4/api-gateway-b4.iml" />
     </modules>
   </component>
 </project>

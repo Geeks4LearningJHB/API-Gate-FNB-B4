@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class UserManagementGatewayRoutesConfig {
 
-    @Value("${user.service.url:${USER_SERVICE_URL:http://localhost:8092}}")
+    @Value("${user.service.url:${USER_SERVICE_URL:https://fnb-b4-ibs-user-service-lnsc.onrender.com}}")
     private String userServiceUrl;
 
     @Bean
